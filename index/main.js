@@ -6,9 +6,6 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
 
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
-}
 
 window.onclick = function (event) {
     if (!event.target.matches('.dropbtn')) {
