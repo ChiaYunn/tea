@@ -8,14 +8,31 @@ body {
     color: #ffffff;
     cursor: pointer;
     position: absolute;
-    top: 80%;
+    top: 90%;
     left: 50%;
+}
+
+.line {
+    border-top: 1px dashed #ffffff;
+    height: 1px;
+    overflow: hidden
 }
 
 .line1 {
     border-top: 10px dashed #006030;
     height: 1px;
     overflow: hidden
+}
+
+h1,
+h2 {
+    color: #ffffff;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 .dropbtn {
