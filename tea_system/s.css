@@ -14,11 +14,27 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    color: #000000;
+    text-align: left;
+}
+
 .back {
     position: absolute;
-    top: 80%;
-    left: 50%;
+    top: 5%;
+    left: 3%;
     font-size: 45px;
     color: #000000;
     cursor: pointer;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.line {
+    border-top: 1px dashed #000000;
+    height: 1px;
+    overflow: hidden
 }

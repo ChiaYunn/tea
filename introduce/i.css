@@ -14,10 +14,15 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    color: #000000;
+    text-align: left;
+}
+
 .back {
     position: absolute;
-    top: 80%;
-    left: 50%;
+    top: 5%;
+    left: 3%;
     font-size: 45px;
     color: #000000;
     cursor: pointer;
