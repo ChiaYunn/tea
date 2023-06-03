@@ -1,32 +1,11 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #006030;
-}
-
-.back {
-    font-size: 45px;
-    color: #ffffff;
-    cursor: pointer;
-    position: absolute;
-    top: 90%;
-    left: 50%;
-}
-
-.line {
-    border-top: 1px dashed #ffffff;
-    height: 1px;
-    overflow: hidden
-}
-
-.line1 {
-    border-top: 10px dashed #006030;
-    height: 1px;
-    overflow: hidden
+    background-image: url('../images/tea_0.jpg');
 }
 
 h1,
 h2 {
-    color: #ffffff;
+    color: #003E3E;
     text-align: center;
 }
 
@@ -36,8 +15,7 @@ img {
 }
 
 .dropbtn {
-    background-color: #006030;
-    color: white;
+    color: #003E3E;
     padding: 20px;
     font-size: 25px;
     border: none;
@@ -46,5 +24,5 @@ img {
 }
 
 .dropbtn:hover {
-    background-color: rgb(85, 195, 162);
+    background-color: rgba(134, 219, 194, 0.853);
 }
